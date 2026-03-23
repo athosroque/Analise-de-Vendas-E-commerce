@@ -18,23 +18,49 @@
   <text x="80" y="180" fill="white" font-family="sans-serif" font-size="56" font-weight="bold">Análise de Vendas E-commerce</text>
   
   <!-- Subtitle -->
-  <text x="80" y="240" fill="#8B949E" font-family="sans-serif" font-size="24">Análise Exploratória • Python • Pandas • Matplotlib</text>
+  <text x="80" y="240" fill="#8B949E" font-family="sans-serif" font-size="24">Análise Exploratória • Python • Pandas • NumPy • Matplotlib • Seaborn</text>
   
   <!-- Accent Line -->
-  <rect x="80" y="265" width="600" height="4" fill="#00D4AA"/>
+  <rect x="80" y="265" width="800" height="4" fill="#00D4AA"/>
   
   <!-- Tech Icons (Symbolic) -->
   <g transform="translate(80, 310)">
-    <!-- Python Icon (Simplified) -->
+    <!-- Python Icon -->
     <path d="M15 0C6.71573 0 0 6.71573 0 15C0 23.2843 6.71573 30 15 30C23.2843 30 30 23.2843 30 15C30 6.71573 23.2843 0 15 0ZM15 3C21.6274 3 27 8.37258 27 15C27 21.6274 21.6274 27 15 27C8.37258 27 3 21.6274 3 15C3 8.37258 8.37258 3 15 3Z" fill="#00D4AA" opacity="0.8"/>
     <text x="35" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Python</text>
     
-    <!-- Pandas (Simplified) -->
-    <rect x="110" y="5" width="20" height="20" rx="4" stroke="#00D4AA" stroke-width="2" opacity="0.8"/>
-    <text x="135" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Pandas</text>
+    <!-- NumPy (Grid) -->
+    <g transform="translate(110, 5)">
+      <rect x="0" y="0" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="7" y="0" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="14" y="0" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="0" y="7" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="7" y="7" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="14" y="7" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="0" y="14" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="7" y="14" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+      <rect x="14" y="14" width="6" height="6" rx="1" fill="#00D4AA" opacity="0.8"/>
+    </g>
+    <text x="135" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">NumPy</text>
+
+    <!-- Pandas -->
+    <rect x="210" y="5" width="20" height="20" rx="4" stroke="#00D4AA" stroke-width="2" opacity="0.8"/>
+    <text x="235" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Pandas</text>
     
-    <!-- Matplotlib (Simplified) -->
-    <path d="M220 25V5M220 25H240M220 20L225 10L230 18L235 5L240 15" stroke="#00D4AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
-    <text x="245" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Matplotlib</text>
+    <!-- Matplotlib -->
+    <path d="M320 25V5M321 25H341M321 20L326 10L331 18L336 5L341 15" stroke="#00D4AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+    <text x="345" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Matplotlib</text>
+
+    <!-- Seaborn (Curves) -->
+    <path d="M440 25C445 5 450 30 460 10" stroke="#00D4AA" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.8"/>
+    <path d="M440 25C445 15 455 25 460 5" stroke="#00D4AA" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.4"/>
+    <text x="465" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Seaborn</text>
+
+    <!-- Jupyter (Planet) -->
+    <g transform="translate(560, 5)">
+      <circle cx="10" cy="10" r="7" stroke="#00D4AA" stroke-width="2" opacity="0.8"/>
+      <ellipse cx="10" cy="10" rx="12" ry="4" stroke="#00D4AA" stroke-width="1.5" opacity="0.6" transform="rotate(-20, 10, 10)"/>
+    </g>
+    <text x="585" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Jupyter</text>
   </g>
 </svg>
