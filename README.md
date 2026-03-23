@@ -57,7 +57,7 @@ O objetivo deste projeto foi transformar 500 registros de transações em **dire
 <br>
 
 <div align="center">
-  <img src="reports/figures/faturamento_por_category.png" width="80%" alt="Faturamento por Categoria">
+  <img src="reports/figures/faturamento_por_categoria.png" width="80%" alt="Faturamento por Categoria">
   <br>
   <em>Figura 3: Composição da receita — Eletrônicos como motor principal do negócio.</em>
 </div>
