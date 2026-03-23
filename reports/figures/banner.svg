@@ -1,0 +1,40 @@
+<svg width="1280" height="400" viewBox="0 0 1280 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="400" fill="#0D1117"/>
+  
+  <!-- Subtle Grid Background -->
+  <path d="M0 80H1280M0 160H1280M0 240H1280M0 320H1280M160 0V400M320 0V400M480 0V400M640 0V400M800 0V400M960 0V400M1120 0V400" stroke="#161B22" stroke-width="1"/>
+  
+  <!-- Decorative Abstract Chart -->
+  <path d="M900 300L950 220L1000 260L1050 150L1100 190L1150 100L1200 130" stroke="#00D4AA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <circle cx="900" cy="300" r="4" fill="#00D4AA"/>
+  <circle cx="950" cy="220" r="4" fill="#00D4AA"/>
+  <circle cx="1000" cy="260" r="4" fill="#00D4AA"/>
+  <circle cx="1050" cy="150" r="4" fill="#00D4AA"/>
+  <circle cx="1100" cy="190" r="4" fill="#00D4AA"/>
+  <circle cx="1150" cy="100" r="4" fill="#00D4AA"/>
+  <circle cx="1200" cy="130" r="4" fill="#00D4AA"/>
+  
+  <!-- Main Title -->
+  <text x="80" y="180" fill="white" font-family="sans-serif" font-size="56" font-weight="bold">Análise de Vendas E-commerce</text>
+  
+  <!-- Subtitle -->
+  <text x="80" y="240" fill="#8B949E" font-family="sans-serif" font-size="24">Análise Exploratória • Python • Pandas • Matplotlib</text>
+  
+  <!-- Accent Line -->
+  <rect x="80" y="265" width="600" height="4" fill="#00D4AA"/>
+  
+  <!-- Tech Icons (Symbolic) -->
+  <g transform="translate(80, 310)">
+    <!-- Python Icon (Simplified) -->
+    <path d="M15 0C6.71573 0 0 6.71573 0 15C0 23.2843 6.71573 30 15 30C23.2843 30 30 23.2843 30 15C30 6.71573 23.2843 0 15 0ZM15 3C21.6274 3 27 8.37258 27 15C27 21.6274 21.6274 27 15 27C8.37258 27 3 21.6274 3 15C3 8.37258 8.37258 3 15 3Z" fill="#00D4AA" opacity="0.8"/>
+    <text x="35" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Python</text>
+    
+    <!-- Pandas (Simplified) -->
+    <rect x="110" y="5" width="20" height="20" rx="4" stroke="#00D4AA" stroke-width="2" opacity="0.8"/>
+    <text x="135" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Pandas</text>
+    
+    <!-- Matplotlib (Simplified) -->
+    <path d="M220 25V5M220 25H240M220 20L225 10L230 18L235 5L240 15" stroke="#00D4AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+    <text x="245" y="21" fill="white" font-family="sans-serif" font-size="16" font-weight="500">Matplotlib</text>
+  </g>
+</svg>
