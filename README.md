@@ -91,7 +91,7 @@ O objetivo deste projeto foi transformar 500 registros de transações em **dire
 1.  Garanta que tem o **Python 3.10+** instalado.
 2.  Clone o repositório.
 3.  Instale as dependências: `pip install -r requirements.txt`.
-4.  Execute o notebook: `jupyter notebook notebooks/01_eda_vendas.ipynb`.
+4.  Execute o notebook: `jupyter notebook notebooks/Analise_Vendas_Ecommerce.ipynb`.
 5.  O projeto utiliza dados sintéticos gerados dinamicamente via script.
 
 ---
