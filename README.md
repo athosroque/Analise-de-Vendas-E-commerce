@@ -16,7 +16,7 @@
 
 ## 🎯 Explore o Projeto
 - **Notebook de Análise:** [Analise_Vendas_Ecommerce.ipynb](notebooks/Analise_Vendas_Ecommerce.ipynb)
-- **Relatório Estratégico:** [Explorar Insights (insights.md)](reports/insights.md)
+- **Relatório Estratégico:** [Explorar Insights (insights.md)](insights.md)
 
 ---
 

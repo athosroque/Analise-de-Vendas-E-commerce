@@ -1,6 +1,6 @@
 # 📊 Relatório de Insights: Análise de Vendas E-commerce
 
-Este documento apresenta uma síntese estratégica dos principais achados extraídos da análise exploratória de dados de vendas. Para a metodologia técnica completa, consulte o [Notebook de Análise](../notebooks/Analise_Vendas_Ecommerce.ipynb).
+Este documento apresenta uma síntese estratégica dos principais achados extraídos da análise exploratória de dados de vendas. Para a metodologia técnica completa, consulte o [Notebook de Análise](notebooks/Analise_Vendas_Ecommerce.ipynb).
 
 ---
 
