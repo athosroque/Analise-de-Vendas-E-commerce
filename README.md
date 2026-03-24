@@ -16,7 +16,7 @@
 
 ## 🎯 Explore o Projeto
 - **Notebook de Análise:** [Analise_Vendas_Ecommerce.ipynb](notebooks/Analise_Vendas_Ecommerce.ipynb)
-- **Documentação Relacionada:** [Relatório de Insights (Seção 10)](notebooks/Analise_Vendas_Ecommerce.ipynb#10.-Conclusões-e-Recomendações-de-Negócio)
+- **Documentação Relacionada:** [Relatório de Insights (Seção 10)](notebooks/Analise_Vendas_Ecommerce.ipynb#10-conclusões-e-recomendações-de-negócio)
 
 ---
 
