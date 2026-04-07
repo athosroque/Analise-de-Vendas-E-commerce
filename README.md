@@ -2,17 +2,6 @@
   <img src="reports/figures/banner.svg" width="100%" alt="Banner Análise de Vendas">
 </div>
 
-# 🎯 Maximizando Receita E-commerce: Insights Estratégicos de Vendas
-
-> Análise exploratória profunda para identificar padrões de consumo, sazonalidade e oportunidades de expansão logística.
-
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Status: Concluído](https://img.shields.io/badge/Status-Concluído-success?style=flat-square)
-
----
 
 <div align="center">
 
