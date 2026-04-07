@@ -14,6 +14,17 @@
 
 ---
 
+<div align="center">
+
+### 🌐 Página de Apresentação do Projeto
+
+**[→ Ver Portfólio Completo](https://analise-de-vendas-e-commerce.projetoathos.com.br)**
+
+*Arquitetura · Stack técnica · Destaques de engenharia · Como rodar*
+
+</div>
+
+---
 ## 🎯 Explore o Projeto
 - **Notebook de Análise:** [Analise_Vendas_Ecommerce.ipynb](notebooks/Analise_Vendas_Ecommerce.ipynb)
 - **Relatório Estratégico:** [Explorar Insights (insights.md)](insights.md)
