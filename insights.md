@@ -59,4 +59,4 @@ A densidade de vendas valida a estratégia de presença forte no Sudeste:
 
 ---
 **Documento gerado como parte do projeto de Portfólio de Data Science.**
-[Voltar para o Repositório Principal](../README.md)
+[Voltar para o Repositório Principal](https://github.com/athosroque/Analise-de-Vendas-E-commerce/tree/main))
